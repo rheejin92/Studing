@@ -1,7 +1,7 @@
-# Os Overview
-
-Abstract view of a computer system
 ![image](https://github.com/rheejin92/Studing/assets/131955566/ef72d566-a2f7-4004-95e9-f2f644afdb64)
+
+
+
 
 
 
