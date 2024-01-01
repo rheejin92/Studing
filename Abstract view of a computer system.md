@@ -30,8 +30,21 @@ Microarchitecture
 CISE (complex Instuction Set Computer)
 PISE (Redneed Instruction Set Computer)
 
+Word
+Adress
+Caches
+
 ## Alan Turing
 Turing Machine (1936)
 Bombe(1940)
 Turing Test
 
+Evolution of Operating systems
+Serial Process
+Simple Batch Systems
+Multiprogrammed Batch Systems
+Time Sharing Systems
+
+## Serial Process
+Earliest computers
+Problems
