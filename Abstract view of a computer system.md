@@ -30,7 +30,7 @@ Microarchitecture
 CISE (complex Instuction Set Computer)
 PISE (Redneed Instruction Set Computer)
 
-## ALan Turing
+## Alan Turing
 Turing Machine (1936)
 Bombe(1940)
 Turing Test
