@@ -8,9 +8,30 @@ Easy of use, Sharing, Protection
 
 ![image](https://github.com/rheejin92/Studing/assets/131955566/75545404-f258-4ef3-be38-a842aaea2509)
 
- 
+## Key Interfaces
+Instruction set architecture (ISA)
+Application binary interface(ABI)
+Application programming interface (API)
 
+## Intel Cpu History
+386 - 486 - Pentium , Pentium2 - Pentium3 - Pentium4 - Pentium Pro
 
+## Comptuering Language
+C#, C++, Python, Java, Scala, Kotlin,  R, R2, R3,
+Load - Store
+ARM - 64bit
+MS-DOS = before(CPM)
 
+## Terminology
+Microprocessor : a single chip processor
+ISA (Instruction set architecture)
+Microarchitecture
 
+CISE (complex Instuction Set Computer)
+PISE (Redneed Instruction Set Computer)
+
+## ALan Turing
+Turing Machine (1936)
+Bombe(1940)
+Turing Test
 
